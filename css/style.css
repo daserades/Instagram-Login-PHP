@@ -344,3 +344,9 @@ footer .container
     padding-bottom: 2rem;
   }
 }
+
+.footer {
+  font-size: 13px;
+  justify-content: center;
+  text-align: center;
+}
